@@ -8,10 +8,16 @@ I specialise in the intersection of **data engineering**, **analytics** and **ap
 ## What I work with
 
 **Data Engineering**
-`Snowflake` `Postgres` `dbt` `Alteryx` `KNIME` `Apache Airflow` `AWS` `Azure` `Python` `SQL` `FastAPI` `Redis`
+`Snowflake` `Postgres` `DuckDB` `AWS` `Azure` `FastAPI` `Redis` `dbt` `Alteryx` `KNIME` `Apache Airflow` `Apache Iceberg`
+
+**Programming**
+`Python` `SQL` `HTML` `CSS` `JQuery`
 
 **AI & LLMs**
-`Pydantic AI` `LangChain` `LangFuse` `RAG Systems` `Agentic AI` `OpenAI` `Anthropic Claude` `pgvector` `Claude Code`
+`Pydantic AI` `LangChain` `RAG` `Hybrid Search` `Agentic AI` `OpenAI` `Anthropic` `OLlama` `Claude Code`
+
+**AI Observability and Monitorings**
+`LangFuse` `Sentry` `OepnTelemetry`
 
 **Platforms**
 `Palantir Foundry` `Palantir AIP` `Amplitude` `Snowplow`
@@ -22,7 +28,7 @@ I specialise in the intersection of **data engineering**, **analytics** and **ap
 
 | Project | What it does | Stack |
 |---|---|---|
-|[Agentic AI LaunchPad](https://github.com/ouverz/agentic-ai-launcher)|Agentic AI LaunchPad Template| FastAPI · Redis · Redis Celery · PostgreSQL · ChromaDB · Langfuse, Sentry, OpenTelemetry |
+|[Agentic AI LaunchPad](https://github.com/ouverz/agentic-ai-launcher)|Deploy an Agentic AI backend with just a few commands | FastAPI · Redis · Redis Celery · PostgreSQL · ChromaDB · Langfuse, Sentry, OpenTelemetry |
 | [RAG Application](https://github.com/ouverz/Retrieval-Augmented-Generation-Application) | Complete RAG system with pgvector and multi-LLM support | Pydantic AI · pgvector · OpenAI · Claude |
 | [AI Job Agent](https://github.com/ouverz/AI-Job-Agent) | CV + Job Description → tailored cover letter | Python · LLM APIs |
 | [LangGraph Tutorial](https://github.com/ouverz/LangGraph-Tutorial) | Practical LangGraph workflow examples | LangGraph · Python |
@@ -34,6 +40,7 @@ I specialise in the intersection of **data engineering**, **analytics** and **ap
 
 - 📍 Frankfurt am Main, Germany
 - 🏦 Previously: Qonto, Penta, solarisbank, OptioPay, BDO, RSA Security
+- 🎓 Palantir Foundry Aware - Professional Certificate
 - 🎓 M.Sc. Business Intelligence & Process Management — HWR Berlin
 - 🔍 Open to senior data engineering and AI engineering roles (hybrid Frankfurt am Main area, remote-first DACH & international)
 - 🌐 [oferkulka.com](https://www.oferkulka.com) · [LinkedIn](https://linkedin.com/in/oferkulka)
