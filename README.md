@@ -22,6 +22,7 @@ I specialise in the intersection of **data engineering**, **analytics** and **ap
 
 | Project | What it does | Stack |
 |---|---|---|
+|[Agentic AI LaunchPad](https://github.com/ouverz/agentic-ai-launcher)|Agentic AI LaunchPad Template| FastAPI · Redis · Redis Celery · PostgreSQL · ChromaDB · Langfuse, Sentry, OpenTelemetry |
 | [RAG Application](https://github.com/ouverz/Retrieval-Augmented-Generation-Application) | Complete RAG system with pgvector and multi-LLM support | Pydantic AI · pgvector · OpenAI · Claude |
 | [AI Job Agent](https://github.com/ouverz/AI-Job-Agent) | CV + Job Description → tailored cover letter | Python · LLM APIs |
 | [LangGraph Tutorial](https://github.com/ouverz/LangGraph-Tutorial) | Practical LangGraph workflow examples | LangGraph · Python |
