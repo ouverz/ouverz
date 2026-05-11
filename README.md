@@ -47,4 +47,4 @@ I specialise in the intersection of **data engineering**, **analytics** and **ap
 
 ---
 
-*Certified Palantir Foundry Aware practitioner · Available for contract and permanent roles*
+*Certified Palantir Foundry practitioner · Foundry & AIP Builder (hands-on project experience) ·  Available for contract and permanent roles*
