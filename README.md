@@ -11,7 +11,7 @@ I specialise in the intersection of **data engineering**, **analytics** and **ap
 `Snowflake` `Postgres` `DuckDB` `AWS` `Azure` `FastAPI` `Redis` `dbt` `Alteryx` `KNIME` `Apache Airflow` `Apache Iceberg`
 
 **Programming**
-`Python` `SQL` `HTML`
+`Python` `SQL` `PySpark`
 
 **AI & LLMs**
 `Pydantic AI` `LangChain` `RAG` `Hybrid Search` `Agentic AI` `OpenAI` `Anthropic` `OLlama` `Claude Code`
