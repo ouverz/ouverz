@@ -29,21 +29,22 @@ I specialise in the intersection of **data engineering**, **analytics** and **ap
 | Project | What it does | Stack |
 |---|---|---|
 |[Agentic AI LaunchPad](https://github.com/ouverz/agentic-ai-launcher)|Deploy an Agentic AI backend with just a few commands | FastAPI · Redis · Redis Celery · PostgreSQL · ChromaDB · Langfuse, Sentry, OpenTelemetry |
-| [RAG Application](https://github.com/ouverz/Retrieval-Augmented-Generation-Application) | Complete RAG system with pgvector and multi-LLM support | Pydantic AI · pgvector · OpenAI · Claude |
-| [AI Job Agent](https://github.com/ouverz/AI-Job-Agent) | CV + Job Description → tailored cover letter | Python · LLM APIs |
-| [LangGraph Tutorial](https://github.com/ouverz/LangGraph-Tutorial) | Practical LangGraph workflow examples | LangGraph · Python |
-| [DE ZoomCamp 2023](https://github.com/ouverz/de_zoomcamp_2023) | End-to-end data engineering pipeline project | Python · GCP |
+|[RAG Application](https://github.com/ouverz/Retrieval-Augmented-Generation-Application) | Complete RAG system with pgvector and multi-LLM support | Pydantic AI · pgvector · OpenAI · Claude |
+|[Job Tracker with ATS AI Scoring](https://github.com/ouverz/job-tracker) | CRM Style Job Aggregated with ATS Scoring via AI Inference | FastAPI · React · SQLite · Anthropic · ATS Scoring · CRM Style · Scraping  |
+|[AI Job Agent](https://github.com/ouverz/AI-Job-Agent) | CV + Job Description → tailored cover letter | Python · LLM APIs |
+|[LangGraph Tutorial](https://github.com/ouverz/LangGraph-Tutorial) | Practical LangGraph workflow examples | LangGraph · Python |
+|[DE ZoomCamp 2023](https://github.com/ouverz/de_zoomcamp_2023) | End-to-end data engineering pipeline project | Python · GCP |
 
 ---
 
 ## Background
 
 - 📍 Frankfurt am Main, Germany
-- 🏦 Previously: Qonto, Penta, solarisbank, OptioPay, BDO, RSA Security
+- 🏦 Previously: Qonto, Penta, Solarisbank, OptioPay, BDO, RSA Security
 - 🎓 Palantir Foundry Aware - Professional Certificate
 - 🎓 M.Sc. Business Intelligence & Process Management — HWR Berlin
 - 🔍 Open to senior data engineering and AI engineering roles (hybrid Frankfurt am Main area, remote-first DACH & international)
-- 🌐 [oferkulka.com](https://www.oferkulka.com) · [LinkedIn](https://linkedin.com/in/oferkulka)
+- 🌐 [Portfolio Aoo](https://portfolio.oferkulka.com) · [oferkulka.com](https://www.oferkulka.com) · [LinkedIn](https://linkedin.com/in/oferkulka)
 
 ---
 
