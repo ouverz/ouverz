@@ -14,7 +14,7 @@ I specialise in the intersection of **data engineering**, **analytics** and **ap
 `Python` `SQL` `PySpark`
 
 **AI & LLMs**
-`Pydantic AI` `LangChain` `RAG` `Hybrid Search` `Agentic AI` `OpenAI` `Anthropic` `OLlama` `Claude Code`
+`Pydantic AI` `LangChain` `RAG` `Hybrid Search` `Agentic AI` `OpenAI` `Anthropic` `OLlama` `Claude Code` `Codex`
 
 **AI Observability and Monitorings**
 `LangFuse` `Sentry` `OepnTelemetry`
@@ -28,6 +28,7 @@ I specialise in the intersection of **data engineering**, **analytics** and **ap
 
 | Project | What it does | Stack |
 |---|---|---|
+|[ARR Semantic Layer End-to-End](https://github.com/ouverz/governed_arr)| A minimal, production-shaped ARR metric product with governed definitions, repeatable validation, and a clear operating model from raw inputs to consumable metrics.This repository demonstrates one certified business metric, Ending ARR, implemented as a governed data product rather than a loose analytics demo. | dbt · Snowflake · Semantic Layer · DuckDB |
 |[Agentic AI LaunchPad](https://github.com/ouverz/agentic-ai-launcher)|Deploy an Agentic AI backend with just a few commands | FastAPI · Redis · Redis Celery · PostgreSQL · ChromaDB · Langfuse, Sentry, OpenTelemetry |
 |[RAG Application](https://github.com/ouverz/Retrieval-Augmented-Generation-Application) | Complete RAG system with pgvector and multi-LLM support | Pydantic AI · pgvector · OpenAI · Claude |
 |[Job Tracker with ATS AI Scoring](https://github.com/ouverz/job-tracker) | CRM Style Job Aggregated with ATS Scoring via AI Inference | FastAPI · React · SQLite · Anthropic · ATS Scoring · CRM Style · Scraping  |
