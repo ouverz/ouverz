@@ -34,7 +34,6 @@ I specialise in the intersection of **data engineering**, **analytics** and **ap
 |[Job Tracker with ATS AI Scoring](https://github.com/ouverz/job-tracker) | CRM Style Job Aggregated with ATS Scoring via AI Inference | FastAPI · React · SQLite · Anthropic · ATS Scoring · CRM Style · Scraping  |
 |[AI Job Agent](https://github.com/ouverz/AI-Job-Agent) | CV + Job Description → tailored cover letter | Python · LLM APIs |
 |[LangGraph Tutorial](https://github.com/ouverz/LangGraph-Tutorial) | Practical LangGraph workflow examples | LangGraph · Python |
-|[DE ZoomCamp 2023](https://github.com/ouverz/de_zoomcamp_2023) | End-to-end data engineering pipeline project | Python · GCP |
 
 ---
 
